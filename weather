@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/n33d38148d01/forbes/" data-label_1="FORBES" data-label_2="WEATHER" data-font="Tinos" data-icons="Climacons Animated" data-mode="Forecast" data-days="3" data-accent="rgba(255, 255, 255, 0.25)" data-highcolor="#363636" data-lowcolor="#878787" data-mooncolor="#ffffff" data-cloudcolor="#ffffff" data-cloudfill="#ffffff" data-raincolor="#000000" data-snowcolor="#000000" >FORBES WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
